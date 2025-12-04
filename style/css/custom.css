@@ -4,6 +4,10 @@
 b8bec6-Pale Slate
 ffffff-White
 
+.hero-text {
+  color: black;
+}
+
 
 body,p,div {
      font-family: "Open Sans", sans-serif;
