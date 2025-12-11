@@ -3,7 +3,7 @@
 013088-True Cobalt
 b8bec6-Pale Slate
 ffffff-White
-
+**/
 .hero-text {
   color: black;
 }
@@ -16,5 +16,25 @@ h1,h2,h3,h4,h5,h6{
       font-family: "DM Serif Text", serif;
 }
       #logoLink img {
-max-width: 150px;
+max-width: 300px;
+}
+.full-width-footer {
+  width: 100%;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.footer-main,
+.sub-footer {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.inverse-wrapper {
+  background: #111;     /* Example background */
+  color: white;
+}
+
+.sub-footer {
+  background: #000;     /* Slightly darker */
 }
